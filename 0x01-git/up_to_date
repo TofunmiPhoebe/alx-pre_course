@@ -1,1 +1,5 @@
-
+git checkout master
+git merge --no-ff update_script
+git push origin master
+git tag v2.25.1
+git push origin v2.25.1
